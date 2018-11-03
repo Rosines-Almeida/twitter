@@ -6,4 +6,4 @@
 
 ## Aparência
 
-<img src = ''>
+<img src = 'https://user-images.githubusercontent.com/39601714/47953953-271dc000-df7c-11e8-95b7-658b63a5c9c9.png'>
